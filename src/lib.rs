@@ -7,3 +7,4 @@ mod challenge_6;
 mod challenge_7;
 mod challenge_8;
 mod challenge_9;
+mod challenge_10;
